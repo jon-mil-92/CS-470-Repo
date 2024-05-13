@@ -2,7 +2,7 @@
 
 **Final Presentation Link:** https://youtu.be/MJQWoRc2314
 
-* Experiences and Strengths: Explain how this course will help you in reaching your professional goals.
+* **Experiences and Strengths:** Explain how this course will help you in reaching your professional goals.
 
   * What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
     
