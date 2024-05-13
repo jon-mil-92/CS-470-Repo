@@ -1,4 +1,4 @@
-# CS 470 Final Reflection
+# CS 470 Reflection
 
 **Final Presentation Link:** https://youtu.be/MJQWoRc2314
 
